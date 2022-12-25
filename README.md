@@ -1,8 +1,10 @@
 # Landing Page Project
 
-## Table of Contents
+#ّّIntroduction
 
-* [Instructions](#instructions)
+This is the second project in the Front-End Web Developer Nanodegree (FEND). We intend to build a multi-section landing page with an auto-updating navigational menu, plus indicating as "active" the portion that is currently visible to users. Furthermore, the page scrolls to the top when selecting the "to top" button from the navbar menu.
+
+
 
 ## Instructions
 
